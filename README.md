@@ -1,7 +1,7 @@
 ## Citi ICG Technology Software Development Job Simulation
 
 **Citi_SoftwareDeveloper:** <br>
-I completed the Citi ICG Technology Software Development Job Simulation, where I worked on enhancing loan management and stock market risk reporting systems. I created state diagrams, researched machine learning for credit risk assessment, and built a Java tool for real-time risk visualization, applying system design and communication skills.
+I completed the Citi ICG Technology Software Development Job Simulation, where I worked on enhancing loan management and stock market risk reporting systems. I created state diagrams, researched machine learning for credit risk assessment, and built a Java tool for real-time risk visualization, applying system design and communication skills..
 
 **Repository Overview:**  
 This repository documents my participation in the **Citi ICG Technology Software Development Job Simulation** on the Forage platform. During this simulation, I worked on hypothetical tasks aimed at improving Citi's **loan management system** and **stock market risk reporting**. I developed technical solutions, including building a real-time data visualization tool using Java, creating state diagrams, and researching machine learning systems for credit risk assessment.
